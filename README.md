@@ -1,5 +1,5 @@
 # Cyber-Security-Bootcamp
-Hi, I'm Eren Yokuş!
+İsim Soyisim: Eren Yokuş
 
 **Tamamlanan ödevler:**
 
